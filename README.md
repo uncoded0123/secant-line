@@ -1,1 +1,1 @@
-# minimal_secant_line
+# secant_line

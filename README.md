@@ -1,1 +1,1 @@
-# minimal_secant_line_graph
+# minimal_secant_line
